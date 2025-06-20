@@ -31,5 +31,5 @@ You can play this game locally by following these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://shubh-tamrakar.github.io/tic-tac-toe.git
 cd tic-tac-toe
